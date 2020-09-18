@@ -2,15 +2,15 @@
 
 ## Getting started
 
-`$ npm install rn-meisong-printer --save`
+`$ npm install @manyox/rn-meisong-printer --save`
 
 ### Mostly automatic installation
 
-`$ react-native link rn-meisong-printer`
+`$ react-native link @manyox/rn-meisong-printer`
 
 ## Usage
 ```javascript
-import RnMeisongPrinter from 'rn-meisong-printer';
+import RnMeisongPrinter from '@manyox/rn-meisong-printer';
 
 // TODO: What to do with the module?
 RnMeisongPrinter;
